@@ -8,7 +8,7 @@ Additionally, I introduced dynamic obstacles to demonstrate the algorithm's effi
 The quadcopter's control system was based on fundamental kinematic principles, utilizing rotation matrices, torque matrices, and inertia force matrices for all rotational movements.
 
 ### HOW TO USE CODES
-There are Environments ways that you can run the simulation at (MATLAB or CopeliaSim)
+There are tow different Environments that you can run the simulation at (MATLAB or CopeliaSim)
 Just make sure that you have one of the software to use the Codes.
 
 ### Additional Help
