@@ -7,7 +7,7 @@ I enhanced the basic APF algorithm by refining obstacle detection and using expo
 Additionally, I introduced dynamic obstacles to demonstrate the algorithm's efficiency.
 The quadcopter's control system was based on fundamental kinematic principles, utilizing rotation matrices, torque matrices, and inertia force matrices for all rotational movements.
 
-<video src="(https://github.com/user-attachments/assets/eed1d202-41dd-4b62-ab49-d77fc2864225)" controls="controls" muted="muted" style="max-width: 100%; height: auto;">
+<video src="https://github.com/user-attachments/assets/eed1d202-41dd-4b62-ab49-d77fc2864225" controls="controls" muted="muted" style="max-width: 100%; height: auto;">
 </video>
 
 ### HOW TO USE CODES
